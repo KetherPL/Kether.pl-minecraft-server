@@ -1,0 +1,4 @@
+&6Witaj, {PLAYER}&6!
+&6Wpisz &c/help&6, aby zobaczyć listę komend.
+&6Wpisz &c/list&6, aby zobaczyć kto jest online.
+&6Gracze online:&c {ONLINE} &6- Czas świata:&c {WORLDTIME12}

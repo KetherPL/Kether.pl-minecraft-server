@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "890dd4cb-3bd2-3f0d-bd93-916147438be5",
+    "name": "StarterX4",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "eeeca11c-0207-3bb0-8fe4-01efd3ae73c1",
+    "name": "Bones",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
