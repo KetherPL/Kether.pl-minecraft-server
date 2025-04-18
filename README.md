@@ -8,11 +8,11 @@ This repository contains the base files for our cozy little Minecraft server
 
 ## Plugins
 
-*   AuthMe - 5.6.0-SNAPSHOT
-*   EssentialsX - 2.21.0-dev+18-5169ef9
-*   EssentialsXChat - 2.21.0-dev+18-5169ef9
-*   EssentialsXDiscord - 2.21.0-dev+18-5169ef9
-*   EssentialsXSpawn - 2.21.0-dev+18-5169ef9
-*   FastAsyncWorldEdit - 2.11.2
-*   ViaBackwards - 4.11.0-SNAPSHOT
-*   ViaVersion - 4.11.0-SNAPSHOT
+*   AuthMe - 5.6.0
+*   EssentialsX - 2.21.0
+*   EssentialsXChat - 2.21.0
+*   EssentialsXDiscord - 2.21.0
+*   EssentialsXSpawn - 2.21.0
+*   FastAsyncWorldEdit - 2.13.1
+*   ViaBackwards - 5.3.2
+*   ViaVersion - 5.3.2
