@@ -25,10 +25,15 @@ $RECYCLE.BIN/
 **/.vscode/settings.json
 **/.vs/slnx.sqlite
 
-# =========================
-# Operating System Files
-# =========================
+##################
+# Server-related #
+##################
 crash-reports/
 logs/
 authme.db
 authme.log
+
+# Worlds
+world/
+world_nether/
+world_the_end/
