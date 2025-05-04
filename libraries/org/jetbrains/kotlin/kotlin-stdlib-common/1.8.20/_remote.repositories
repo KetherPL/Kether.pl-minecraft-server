@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 28 17:49:38 CEST 2025
+kotlin-stdlib-common-1.8.20.pom>0=
+kotlin-stdlib-common-1.8.20.jar>0=
+kotlin-stdlib-common-1.8.20.pom>https\://repo.maven.apache.org/maven2/=

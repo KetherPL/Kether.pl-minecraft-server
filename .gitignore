@@ -32,6 +32,7 @@ crash-reports/
 logs/
 authme.db
 authme.log
+plugins/SimpleClaimSystem/storage.db
 
 # Worlds
 world/

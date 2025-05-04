@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 28 18:15:08 CEST 2025
+asm-analysis-9.4.jar>central=
+asm-analysis-9.4.jar>https\://repo.maven.apache.org/maven2/=
+asm-analysis-9.4.pom>central=
+asm-analysis-9.4.pom>https\://repo.maven.apache.org/maven2/=

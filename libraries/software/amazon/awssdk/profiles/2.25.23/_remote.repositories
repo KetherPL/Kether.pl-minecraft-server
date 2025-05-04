@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Apr 27 21:35:18 CEST 2025
+profiles-2.25.23.jar>https\://repo.maven.apache.org/maven2/=
+profiles-2.25.23.pom>https\://repo.maven.apache.org/maven2/=

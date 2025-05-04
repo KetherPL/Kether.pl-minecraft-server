@@ -1,0 +1,27 @@
+database:
+  type: sqlite #mysql or sqlite is supported
+  username: "root"
+  password: "password"
+  database: "AnturniaQuests"
+  ip: "127.0.0.1"
+  port: 3306
+
+commands:
+  - name: "quests"
+    aliases:
+      - "quest"
+
+questMenu:
+  enabled: true
+  forwardItem:
+    material: "GREEN_STAINED_GLASS_PANE"
+    name: "&7Forward &a➡"
+    slot: 8
+  backwardItem:
+      material: "RED_STAINED_GLASS_PANE"
+      name: "&c⬅ &7Back "
+      slot: 0
+
+storylinesEnabled: true
+
+debug: false
