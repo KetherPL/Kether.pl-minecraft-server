@@ -1,8 +1,0 @@
-{
-  "result": "minecraft:oozing",
-  "default_time": 3600,
-  "inputs": [
-    "minecraft:nether_wart",
-    "minecraft:slime_block"
-  ]
-}

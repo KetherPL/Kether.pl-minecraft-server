@@ -1,18 +1,17 @@
 # Kether.pl Minecraft Server Base
 
-This repository contains the base files for our cozy little Minecraft server
+This repository contains the base files for our cozy little Survival Minecraft server
 
 ## Server Software
 
-*   **Spigot:** 1.21.5 (from https://startminecraft.com/software/spigot)
+*   **Paper:** 1.21.4
 
 ## Plugins
 
-*   AuthMe - 5.6.0
-*   EssentialsX - 2.21.0
-*   EssentialsXChat - 2.21.0
-*   EssentialsXDiscord - 2.21.0
-*   EssentialsXSpawn - 2.21.0
-*   FastAsyncWorldEdit - 2.13.1
+*   AnturniaQuests - 1.1.1
+*   LuckPerms-Bukkit - 5.4.158
+*   SilkSpawners v2
+*   SimpleClaimSystem
+*   TreeFella - 1.3
 *   ViaBackwards - 5.3.2
 *   ViaVersion - 5.3.2
