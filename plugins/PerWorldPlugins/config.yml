@@ -1,0 +1,54 @@
+# PerWorldPlugins Configuration
+
+# Disable or Enable the message of new updates.
+updateChecker: true
+# Disable or Enable the bStats metrics.
+metrics: true
+# Message send when execute blocked plugin command.
+disabledCommandMessage: '&4[Server]: &f{player} this command is disabled for {world}.'
+
+# If false, the plugins/groups added in the world will work.
+# If true, it will be reversed.
+blacklist: true
+
+plugins:
+  # For set group set - g:example (example is the name of group)
+  # Add and edit groups in the groups.yml
+  # ":ignore" is for ignore this plugin and don't check this.
+  # In the Example case, the plugin is blocked in "world" (If is the blacklist on true)
+  Example:
+  - world
+  LuckPerms:
+  - :ignore
+  ViaVersion:
+  - :ignore
+  Multiverse-Core:
+  - :ignore
+  Multiverse-Inventories:
+  - :ignore
+  Multiverse-NetherPortals:
+  - :ignore
+  TreeFella:
+  - creative
+  SimpleClaimSystem:
+  - creative
+  SilkSpawners_v2:
+  - creative
+  AnturniaQuests:
+  - creative
+  ViaBackwards:
+  - :ignore
+  FastAsyncWorldEdit:
+  - world
+  - world_nether
+  - world_the_end
+  Essentials:
+  - :ignore
+  EssentialsSpawn:
+  - :ignore
+  EssentialsChat:
+  - :ignore
+  WorldGuard:
+  - world
+  - world_nether
+  - world_the_end

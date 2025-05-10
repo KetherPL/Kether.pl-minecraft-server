@@ -1,8 +1,11 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*		 text=auto
 
-*.vpk   -text
-*.smx   -text merge=theirs
+# These are Windows script files and should use crlf
+*.bat    text eol=crlf
+
+# Binary files should be left untouched
+*.jar    binary
 
 # Custom for Visual Studio
 *.cs     diff=csharp

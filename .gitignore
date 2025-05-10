@@ -32,9 +32,11 @@ crash-reports/
 logs/
 authme.db
 authme.log
+plugins/LuckPerms/editor-keystore.json
 plugins/SimpleClaimSystem/storage.db
 
 # Worlds
 world/
 world_nether/
 world_the_end/
+creative/

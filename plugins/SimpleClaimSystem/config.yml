@@ -55,6 +55,7 @@ claims-worlds-mode:
   world: SURVIVAL
   world_nether: SURVIVAL
   world_the_end: SURVIVAL
+  creative: DISABLED
   example_world: DISABLED
   example_only_claims: SURVIVAL_REQUIRING_CLAIMS
 
