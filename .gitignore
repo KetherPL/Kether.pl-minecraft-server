@@ -40,3 +40,8 @@ world/
 world_nether/
 world_the_end/
 creative/
+
+# Redownloadable stuff
+cache/
+libraries/
+versions/
