@@ -21,7 +21,7 @@ This repository contains the base files for our cozy little Survival+Creative Mi
 ### Creative-only
 
 *   [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) - 2.15.2_1317
-*   WorldGuard - 7.0.13
+*   ~~WorldGuard - 7.0.13~~
 
 ### Survival-only
 
@@ -29,3 +29,6 @@ This repository contains the base files for our cozy little Survival+Creative Mi
 *   [SilkSpawners v2](https://modrinth.com/plugin/silkspawners) - 2.3.2
 *   [SimpleClaimSystem](https://modrinth.com/plugin/simpleclaimsystem) - 1.13.0.8
 *   [TreeTimber](https://modrinth.com/plugin/treetimber) - 1.8.2
+
+---
+The Java/OpenJDK runtime we use on our server is [Azul Zulu](https://www.azul.com/downloads/?package=jre#zulu) 25 (actually set up in `start.sh`)
