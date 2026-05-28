@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "890dd4cb-3bd2-3f0d-bd93-916147438be5",
+    "name": "StarterX4",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
