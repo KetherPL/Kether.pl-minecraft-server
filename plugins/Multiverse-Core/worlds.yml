@@ -1,6 +1,7 @@
 creative:
   adjust-spawn: true
   alias: ''
+  allow-advancement-grant: true
   allow-flight: true
   allow-weather: true
   anchor-respawn: true
@@ -8,7 +9,7 @@ creative:
   auto-load: true
   bed-respawn: true
   biome: ''
-  difficulty: normal
+  difficulty: easy
   entry-fee:
     enabled: false
     amount: 0.0
@@ -25,27 +26,60 @@ creative:
   respawn-world: ''
   scale: 1.0
   seed: 8
+  spawn-location:
+    ==: MVSpawnLocation
+    x: 0.0
+    y: 102.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
   spawning:
-    animal:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
     monster:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
+      exceptions: []
+    animal:
+      spawn: true
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
+      exceptions: []
+    water_animal:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_ambient:
+      spawn: true
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
+      exceptions: []
+    water_underground_creature:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    ambient:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    axolotl:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
       exceptions: []
     misc:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
       exceptions: []
   world-blacklist: []
   version: 1.2
 world:
   adjust-spawn: true
   alias: ''
+  allow-advancement-grant: true
   allow-flight: false
   allow-weather: true
   anchor-respawn: true
@@ -69,47 +103,61 @@ world:
   pvp: true
   respawn-world: ''
   scale: 1.0
+  seed: -2164298304037380511
+  spawn-location:
+    ==: MVSpawnLocation
+    x: -144.0
+    y: 87.0
+    z: -832.0
+    pitch: 0.0
+    yaw: 0.0
   spawning:
-    water_underground_creature:
+    monster:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    water_animal:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
       exceptions: []
     animal:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
       exceptions: []
-    ambient:
+    water_animal:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
       exceptions: []
     water_ambient:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
       exceptions: []
-    monster:
+    water_underground_creature:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
+      exceptions: []
+    ambient:
+      spawn: true
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
+      exceptions: []
+    axolotl:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
       exceptions: []
     misc:
       spawn: true
-      tick-rate: -1
-      spawn-limit: -1
+      tick-rate: '@bukkit'
+      spawn-limit: '@bukkit'
       exceptions: []
   world-blacklist: []
   version: 1.2
 world_nether:
   adjust-spawn: true
   alias: ''
+  allow-advancement-grant: true
   allow-flight: false
   allow-weather: true
   anchor-respawn: true
@@ -133,12 +181,61 @@ world_nether:
   pvp: true
   respawn-world: ''
   scale: 8.0
-  spawning: {}
+  seed: -2164298304037380511
+  spawn-location:
+    ==: MVSpawnLocation
+    x: 0.0
+    y: 41.0
+    z: 3.0
+    pitch: 0.0
+    yaw: 0.0
+  spawning:
+    monster:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    animal:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_animal:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_ambient:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_underground_creature:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    ambient:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    axolotl:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    misc:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
   world-blacklist: []
   version: 1.2
 world_the_end:
   adjust-spawn: true
   alias: ''
+  allow-advancement-grant: true
   allow-flight: false
   allow-weather: true
   anchor-respawn: true
@@ -162,6 +259,54 @@ world_the_end:
   pvp: true
   respawn-world: ''
   scale: 16.0
-  spawning: {}
+  seed: -2164298304037380511
+  spawn-location:
+    ==: MVSpawnLocation
+    x: 0.0
+    y: 60.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  spawning:
+    monster:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    animal:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_animal:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_ambient:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    water_underground_creature:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    ambient:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    axolotl:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
+    misc:
+      spawn: true
+      tick-rate: '@unset'
+      spawn-limit: '@unset'
+      exceptions: []
   world-blacklist: []
   version: 1.2

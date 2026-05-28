@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 83.175.176.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1779645798148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779646656663
+  login: 1779643569005
+money: '0'
+last-account-name: Stoj_Katarzyno
+lastlocation:
+  world: ed4ab635-13ab-4756-ba18-f211649844c5
+  world-name: world
+  x: -858.2674352381016
+  y: 61.76418384027232
+  z: -795.2058263523992
+  yaw: 114.15162658691406
+  pitch: 13.514408111572266
+homes:
+  home:
+    world: ed4ab635-13ab-4756-ba18-f211649844c5
+    world-name: world
+    x: -500.11615552687255
+    y: 63.0
+    z: -907.2745756263447
+    yaw: 164.7039794921875
+    pitch: 17.235260009765625
+logoutlocation:
+  world: ed4ab635-13ab-4756-ba18-f211649844c5
+  world-name: world
+  x: -496.73100352587045
+  y: 63.0
+  z: -902.7361421296106
+  yaw: -136.48065185546875
+  pitch: 18.281660079956055

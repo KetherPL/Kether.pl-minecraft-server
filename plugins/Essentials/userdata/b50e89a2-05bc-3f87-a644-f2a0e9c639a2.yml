@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 193.32.248.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779946865793
+  login: 1779946865673
+money: '0'
+last-account-name: mori0
+lastlocation:
+  world: ed4ab635-13ab-4756-ba18-f211649844c5
+  world-name: world
+  x: -145.5
+  y: 88.0
+  z: -826.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: ed4ab635-13ab-4756-ba18-f211649844c5
+  world-name: world
+  x: -143.5
+  y: 87.0
+  z: -831.5
+  yaw: 0.0
+  pitch: 0.0

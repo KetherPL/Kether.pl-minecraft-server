@@ -176,6 +176,7 @@ dynmap-settings:
   claim-border-color: FFFFFF
   claim-fill-color: A5A5A5
   claim-hover-text: '%claim-name% - Owner: %owner%'
+  claim-opacity: 0.5
 
 # Bluemap support
 bluemap: true
@@ -183,6 +184,7 @@ bluemap-settings:
   claim-border-color: FFFFFF
   claim-fill-color: A5A5A5
   claim-hover-text: '%claim-name% - Owner: %owner%'
+  claim-opacity: '80'
 
 # Pl3xmap support
 pl3xmap: true
@@ -190,6 +192,7 @@ pl3xmap-settings:
   claim-border-color: FFFFFF
   claim-fill-color: A5A5A5
   claim-hover-text: '%claim-name% - Owner: %owner%'
+  claim-opacity: 128
 
 
 # **************************
@@ -568,3 +571,7 @@ ignored-break-blocks:
 # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
 ignored-place-blocks:
 - BEDROCK
+world-aliases:
+  world: Overworld
+  world_nether: Nether
+  world_the_end: End

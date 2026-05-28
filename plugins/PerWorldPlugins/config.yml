@@ -52,3 +52,37 @@ plugins:
   - world
   - world_nether
   - world_the_end
+  viaversion:
+  - :ignore
+  luckperms:
+  - :ignore
+  fastasyncworldedit:
+  - world
+  - world_nether
+  - world_the_end
+  essentials:
+  - :ignore
+  multiverse-core:
+  - :ignore
+  viabackwards:
+  - :ignore
+  essentialsspawn:
+  - :ignore
+  multiverse-netherportals:
+  - :ignore
+  multiverse-inventories:
+  - :ignore
+  timber:
+  - creative
+  skinsrestorer:
+  - :ignore
+  anturniaquests:
+  - :ignore
+  silkspawners_v2:
+  - :ignore
+  simpleclaimsystem:
+  - creative
+  villagerinabukkit:
+  - :ignore
+  veinminer:
+  - creative
