@@ -15,6 +15,7 @@ This repository contains the base files for our cozy little Survival+Creative Mi
 *   [LuckPerms-Bukkit](https://luckperms.net/download) - 5.5.55
 *   [Multiverse-Core](https://modrinth.com/plugin/multiverse-core) - 5.7.0_pre2, [Multiverse-Inventories](https://modrinth.com/mod/multiverse-inventories) - 5.3.4_pre2, [Multiverse-NetherPortals](https://modrinth.com/mod/multiverse-netherportals) - 5.0.5_pre0
 *   [PerWorldPlugins](https://modrinth.com/plugin/perworldplugins) - 1.6.1
+*   [SkinRestorer](https://modrinth.com/plugin/skinsrestorer) - 15.12.0
 *   [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/releases) - 5.9.2-SNAPSHOT+587
 *   [ViaVersion](https://github.com/ViaVersion/ViaVersion/releases) - 5.9.2-SNAPSHOT+1002
 
