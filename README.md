@@ -4,20 +4,20 @@ This repository contains the base files for our cozy little Survival+Creative Mi
 
 ## Server Software
 
-*   **Paper:** 26.1.2 build 69
+*   **Paper:** 26.1.2 build 70
 
 ## Plugins
 
 ### Common
 
-*   [EssentialsX](https://essentialsx.net/downloads) - 2.22.1-dev+1-b303bf9
-*   [EssentialsXSpawn](https://essentialsx.net/downloads) - 2.22.1-dev+1-b303bf9
+*   [EssentialsX](https://essentialsx.net/downloads) - 2.22.1-dev+11-28eb89f
+*   [EssentialsXSpawn](https://essentialsx.net/downloads) - 2.22.1-dev+11-28eb89f
 *   [LuckPerms-Bukkit](https://luckperms.net/download) - 5.5.55
 *   [Multiverse-Core](https://modrinth.com/plugin/multiverse-core) - 5.7.0_pre2, [Multiverse-Inventories](https://modrinth.com/mod/multiverse-inventories) - 5.3.4_pre2, [Multiverse-NetherPortals](https://modrinth.com/mod/multiverse-netherportals) - 5.0.5_pre0
-*   [PerWorldPlugins](https://modrinth.com/plugin/perworldplugins) - 1.6.1
-*   [SkinRestorer](https://modrinth.com/plugin/skinsrestorer) - 15.12.0
-*   [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/releases) - 5.9.2-SNAPSHOT+587
-*   [ViaVersion](https://github.com/ViaVersion/ViaVersion/releases) - 5.9.2-SNAPSHOT+1002
+*   [PerWorldPlugins](https://modrinth.com/plugin/perworldplugins) - 1.6.2
+*   [SkinRestorer](https://modrinth.com/plugin/skinsrestorer) - 15.12.3
+*   [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/releases) - 5.9.2-SNAPSHOT+591
+*   [ViaVersion](https://github.com/ViaVersion/ViaVersion/releases) - 5.9.2-SNAPSHOT+1005
 
 ### Creative-only
 
@@ -27,9 +27,9 @@ This repository contains the base files for our cozy little Survival+Creative Mi
 
 *   [AnturniaQuests](https://www.spigotmc.org/resources/anturniaquests.113784/) - 2.0.0
 *   [SilkSpawners v2](https://modrinth.com/plugin/silkspawners) - 2.3.3
-*   [SimpleClaimSystem](https://modrinth.com/plugin/simpleclaimsystem) - 1.13.0.9
+*   [SimpleClaimSystem](https://modrinth.com/plugin/simpleclaimsystem) - 1.13.1
 *   [TreeTimber](https://modrinth.com/plugin/treetimber) - 1.8.3
-*   [Veinminer](https://modrinth.com/mod/veinminer) - 2.10.1
+*   [Veinminer](https://modrinth.com/mod/veinminer) - 2.10.4
 *   [Villager In A Bucket](https://modrinth.com/plugin/villager-in-a-bucket) - 1.5.0
 
 ---
